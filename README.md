@@ -2,6 +2,8 @@
 
 ## Overview
 
+![Match Grade Preview](static/preview.png)
+
 Match Grade is an advanced image processing tool for transferring color grading from a reference image to an input image using histogram matching and style transfer. Built with Flask and OpenCV, it provides an intuitive interface with a modern UI for seamless image enhancement.
 Match Grade is a Flask-based web application that allows users to match the color grading of an input image with a reference image. It applies histogram matching and style transfer techniques to generate a color-graded output.
 
